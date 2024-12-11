@@ -19,5 +19,7 @@ Run 'pnpm run dev', visit the project at [http://localhost:5173](http://localhos
 - [Google fonts](https://github.com/feat-agency/vite-plugin-webfont-dl)
 - [Unplugin Head](https://unhead.unjs.io/) for managing head tags
 - [Vueuse](https://vueuse.org/) for all composable goodness
+- [VeeValidate](https://vee-validate.logaretm.com/v4/) for form validation
+- [Zod](https://zod.dev/) for schema validation with [VeeValidate](https://vee-validate.logaretm.com/v4/integrations/zod-schema-validation/)
 - [Playwright](https://playwright.dev/) for e2e testing
 - [Vitest](https://vite.dev/guide/features.html#testing) for unit testing
